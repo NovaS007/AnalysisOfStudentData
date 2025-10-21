@@ -1,3 +1,0 @@
-*.Rmd linguist-language=R
-*.R linguist-language=R
-*.csv linguist-generated=true
