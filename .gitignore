@@ -1,6 +1,15 @@
+# R and RStudio
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 .Rbuildignore
-.AnalysisOfStudentData.Rproj
+*.Rproj
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+
+# Backups and temporary edits
+*~
+*.tmp
